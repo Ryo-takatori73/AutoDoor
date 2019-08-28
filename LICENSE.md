@@ -2,10 +2,6 @@
 
   (c)2019 Ryo-takatori73
  
- Everyone is permitted to copy and distribute verbatim copies
-of this license document, but Commercial Use it is not allowed.
-  
-  
 ## Preamble  
   
 The licenses for most software are designed to take away your freedom to share and change it. By contrast, the Citrus global License is intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users. This General Public License applies to most of the Ryo-takatori73's software and to any other program whose authors commit to using it. You can apply it to your programs, too.  
